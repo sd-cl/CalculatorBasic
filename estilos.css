@@ -40,3 +40,7 @@ color: black;
 font-size: 1.85rem;
 text-align: right;
 }
+
+.calculadora-grilla > button:hover{
+    background-color: rgba(255, 255, 255, .9);
+}
